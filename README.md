@@ -32,7 +32,7 @@
 
 | | |
 |:---:|:---|
-| <img src="https://d15cw65ipctsrr.cloudfront.net/2b/427e95891046e59983c15684493123/600x600.png" height="100" alt="DP-700"> | **Microsoft Certified: Fabric Data Engineer Associate** · DP-700 · En progreso |
+| <img src="assets/logo_dp700.png" height="100" alt="DP-700"> | **Microsoft Certified: Fabric Data Engineer Associate** · DP-700 · En progreso |
 | <img src="https://www.databricks.com/sites/default/files/2025-10/specialty-spark-developer-associate-badge.png?v=1761152441" height="100" alt="Spark"> | **Databricks Certified Associate Developer for Apache Spark** · En progreso |
 
 ---
