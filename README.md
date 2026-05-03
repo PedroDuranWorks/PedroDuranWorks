@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Durán-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-dur%C3%A1n-porras)
 ![Location](https://img.shields.io/badge/Ubicación-Badajoz%2C%20Extremadura-555?style=flat&logo=googlemaps&logoColor=white)
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Data%20Engineer-2ea44f?style=flat)
+
 
 </div>
 
