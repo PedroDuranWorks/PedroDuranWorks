@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Durán-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-dur%C3%A1n-porras)
 ![Location](https://img.shields.io/badge/Ubicación-Badajoz%2C%20Extremadura-555?style=flat&logo=googlemaps&logoColor=white)
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Data%20Engineer-2ea44f?style=flat)
 
 </div>
 
@@ -14,67 +13,27 @@
 
 ## 💼 Experiencia profesional
 
-<table>
-  <tr>
-    <td align="center" width="100"><img src="assets/mardan.png" width="80" alt="MARDAN"></td>td>
-    <td valign="middle">
-      <b>MARDAN BUSINESS SOLUTIONS SL</b>b><br>
-      Data Engineer · Sep 2024 – Presente · Badajoz, Extremadura<br><br>
-      - Pipelines <b>ETL/ELT</b>b> en <b>Databricks</b>b> con <b>PySpark</b>b> y <b>Delta Lake</b>b><br>
-      - Arquitectura <b>Medallion</b>b> (Bronze → Silver → Gold) para ingesta y calidad del dato<br>
-      - Integración de fuentes con <b>Azure Data Factory (ADF)</b>b><br>
-      - Sistemas de monitorización con <b>Spark Structured Streaming</b>b><br>
-      - Dashboards e informes en <b>Power BI</b>b> y <b>Microsoft Fabric</b>b><br><br>
-      <code>Databricks</code>code> <code>PySpark</code>code> <code>Delta Lake</code>code> <code>ADF</code>code> <code>Power BI</code>code> <code>Microsoft Fabric</code>code> <code>Azure</code>code>
-    </td>td>
-  </tr>tr>
-  <tr>
-    <td align="center" width="100"><img src="assets/logo_delf.jpg" width="80" alt="NetMX"></td>td>
-    <td valign="middle">
-      <b>NetMX</b>b><br>
-      Desarrollo y Coordinación Técnica · Abr 2025 – Jun 2025 · Remoto, Madrid<br><br>
-      - MVP full-stack para análisis de riesgos empresariales<br>
-      - Backend con <b>Flask</b>b> y <b>MongoDB</b>b>, frontend con <b>React</b>b><br>
-      - Integración de <b>APIs REST</b>b> con autenticación <b>JWT</b>b><br>
-      - Coordinación técnica del equipo en remoto<br><br>
-      <code>React</code>code> <code>Flask</code>code> <code>MongoDB</code>code> <code>REST APIs</code>code> <code>JWT</code>code>
-    </td>td>
-  </tr>tr>
-</table>table>
-
+| | |
+|:---:|:---|
+| <img src="assets/mardan.png" width="80" alt="MARDAN"> | **MARDAN BUSINESS SOLUTIONS SL** — Data Engineer · Sep 2024 – Presente · Badajoz, Extremadura <br><br> · Pipelines ETL/ELT en Databricks con PySpark y Delta Lake <br> · Arquitectura Medallion (Bronze → Silver → Gold) para ingesta y calidad del dato <br> · Integración de fuentes con Azure Data Factory (ADF) <br> · Sistemas de monitorización con Spark Structured Streaming <br> · Dashboards e informes en Power BI y Microsoft Fabric <br><br> ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat&logo=databricks&logoColor=white) ![ADF](https://img.shields.io/badge/ADF-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-742774?style=flat&logo=microsoft&logoColor=white) |
+| <img src="assets/logo_netmx.png" width="80" alt="NetMX"> | **NetMX** — Desarrollo y Coordinación Técnica · Abr 2025 – Jun 2025 · Remoto, Madrid <br><br> · MVP full-stack para análisis de riesgos empresariales <br> · Backend con Flask y MongoDB, frontend con React <br> · Integración de APIs REST con autenticación JWT <br> · Coordinación técnica del equipo en remoto <br><br> ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
 ---
 
 ## 🏅 Certificaciones
 
 ### ✅ Obtenidas
 
-<table>
-  <tr>
-    <td align="center" width="120"><img src="https://www.databricks.com/sites/default/files/2025-10/associate-badge-de.png?v=1761149691" height="100" alt="Databricks DE Associate"></td>td>
-    <td valign="middle"><b><a href="https://credentials.databricks.com/1674c522-6a7b-467b-a684-30c57db44091">Databricks Certified Data Engineer Associate</a>a></b>b><br>nov. 2025 – nov. 2027</td>td>
-  </tr>tr>
-  <tr>
-    <td align="center" width="120"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" height="100" alt="DP-900"></td>td>
-    <td valign="middle"><b>Microsoft Certified: Azure Data Fundamentals</b>b><br>DP-900</td>td>
-  </tr>tr>
-  <tr>
-    <td align="center" width="120"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" height="100" alt="PL-900"></td>td>
-    <td valign="middle"><b>Microsoft Certified: Power Platform Fundamentals</b>b><br>PL-900</td>td>
-  </tr>tr>
-</table>table>
+| | |
+|:---:|:---|
+| <img src="https://www.databricks.com/sites/default/files/2025-10/associate-badge-de.png?v=1761149691" height="100" alt="Databricks"> | **[Databricks Certified Data Engineer Associate](https://credentials.databricks.com/1674c522-6a7b-467b-a684-30c57db44091)** · nov. 2025 – nov. 2027 |
+
 
 ### 🔄 En progreso
 
-<table>
-  <tr>
-    <td align="center" width="120"><img src="https://d15cw65ipctsrr.cloudfront.net/2b/427e95891046e59983c15684493123/600x600.png" height="100" alt="DP-700"></td>td>
-    <td valign="middle"><b>Microsoft Certified: Fabric Data Engineer Associate</b>b><br>DP-700 · En progreso</td>td>
-  </tr>tr>
-  <tr>
-    <td align="center" width="120"><img src="https://www.databricks.com/sites/default/files/2025-10/specialty-spark-developer-associate-badge.png?v=1761152441" height="100" alt="Spark Developer"></td>td>
-    <td valign="middle"><b>Databricks Certified Associate Developer for Apache Spark</b>b><br>En progreso</td>td>
-  </tr>tr>
-</table>table>
+| | |
+|:---:|:---|
+| <img src="https://d15cw65ipctsrr.cloudfront.net/2b/427e95891046e59983c15684493123/600x600.png" height="100" alt="DP-700"> | **Microsoft Certified: Fabric Data Engineer Associate** · DP-700 · En progreso |
+| <img src="https://www.databricks.com/sites/default/files/2025-10/specialty-spark-developer-associate-badge.png?v=1761152441" height="100" alt="Spark"> | **Databricks Certified Associate Developer for Apache Spark** · En progreso |
 
 ---
 
@@ -119,23 +78,17 @@
 **🗣️ Idiomas**
 
 ![Español](https://img.shields.io/badge/Español-Nativo-c0392b?style=flat)
-![Inglés](https://img.shields.io/badge/Inglés-B2-0078D4?style=flat)
+![Inglés](https://img.shields.io/badge/Inglés-DELF%20B2-0078D4?style=flat)
 ![Francés](https://img.shields.io/badge/Francés-DELF%20B2-0055A4?style=flat)
 
 ---
 
 ## 🎓 Formación académica
 
-<table>
-  <tr>
-    <td align="center" width="100"><img src="assets/Logo_UNIR.png" height="50" alt="UNIR"></td>td>
-    <td valign="middle"><b>Máster en Visual Analytics & Big Data</b>b> — UNIR (2024–2025)<br><em>ML supervisado/no supervisado, Deep Learning, NLP, Power BI, Tableau, NoSQL</em>em></td>td>
-  </tr>tr>
-  <tr>
-    <td align="center" width="100"><img src="assets/logo_uex.jpg" height="60" alt="UEx"></td>td>
-    <td valign="middle"><b>Grado en Matemáticas</b>b> — Universidad de Extremadura (2019–2024)<br><em>Estadística, Series temporales (ARIMA), Procesos estocásticos, Modelado predictivo</em>em></td>td>
-  </tr>tr>
-</table>table>
+| | |
+|:---:|:---|
+| <img src="assets/Logo_UNIR.png" height="50" alt="UNIR"> | **Máster en Visual Analytics & Big Data** — UNIR (2024–2025) · ML supervisado/no supervisado, Deep Learning, NLP, Power BI, Tableau, NoSQL |
+| <img src="assets/logo_uex.png" height="60" alt="UEx"> | **Grado en Matemáticas** — Universidad de Extremadura (2019–2024) · Estadística, Series temporales (ARIMA), Procesos estocásticos, Modelado predictivo |
 
 ---
 
@@ -151,6 +104,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Durán%20Porras-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-dur%C3%A1n-porras)
 ![Ubicación](https://img.shields.io/badge/📍-Badajoz%2C%20Extremadura%2C%20España-555?style=flat)
-  </tr>
-  </tr>
-</table>
