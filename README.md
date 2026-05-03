@@ -30,11 +30,6 @@ Actualmente en **MARDAN BUSINESS SOLUTIONS**, diseño soluciones de datos end-to
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 
-**🌐 Idiomas**
-
-<img src="https://img.shields.io/badge/DELF_B2-Francés_·_Inglés-003189?style=for-the-badge&logoColor=white" />
-
-
 ---
 
 ## 🏆 Certificaciones
@@ -43,22 +38,24 @@ Actualmente en **MARDAN BUSINESS SOLUTIONS**, diseño soluciones de datos end-to
 
 <table>
 <tr>
-<td valign="middle"><img src="https://www.databricks.com/sites/default/files/2025-10/associate-badge-de.png?v=1761149691" height="120" alt="Databricks Certified Data Engineer Associate" /></td>
+<td><img src="https://www.databricks.com/sites/default/files/2025-10/associate-badge-de.png?v=1761149691" height="120" alt="Databricks Certified Data Engineer Associate" /></td>
 <td valign="middle"><strong><a href="https://credentials.databricks.com/1674c522-6a7b-467b-a684-30c57db44091">Databricks Certified Data Engineer Associate</a></strong><br/>nov. 2025 – nov. 2027</td>
 </tr>
-
+<tr>
+<td><img src="https://img.shields.io/badge/DELF_B2-Francés_·_Inglés-003189?style=for-the-badge&logoColor=white" /></td>
+<td valign="middle"><strong>DELF B2</strong><br/>Francés · Inglés — Escuela Oficial de Idiomas</td>
+</tr>
 </table>
-
 
 ### 🔄 En progreso
 
 <table>
 <tr>
-<td valign="middle"><img src="https://d15cw65ipctsrr.cloudfront.net/2b/427e95891046e59983c15684493123/600x600.png" height="120" alt="Microsoft Fabric Data Engineer DP-700" /></td>
+<td><img src="https://d15cw65ipctsrr.cloudfront.net/2b/427e95891046e59983c15684493123/600x600.png" height="120" alt="Microsoft Fabric Data Engineer Associate DP-700" /></td>
 <td valign="middle"><strong>Microsoft Certified: Fabric Data Engineer Associate</strong><br/>DP-700 · En progreso</td>
 </tr>
 <tr>
-<td valign="middle"><img src="https://www.databricks.com/sites/default/files/2025-10/specialty-spark-developer-associate-badge.png?v=1761152441" height="120" alt="Databricks Apache Spark Developer Associate" /></td>
+<td><img src="https://www.databricks.com/sites/default/files/2025-10/specialty-spark-developer-associate-badge.png?v=1761152441" height="120" alt="Databricks Apache Spark Developer Associate" /></td>
 <td valign="middle"><strong>Databricks Certified Associate Developer for Apache Spark</strong><br/>En progreso</td>
 </tr>
 </table>
@@ -67,15 +64,16 @@ Actualmente en **MARDAN BUSINESS SOLUTIONS**, diseño soluciones de datos end-to
 
 ## 🎓 Formación
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/UNIR_Logo.svg/320px-UNIR_Logo.svg.png" height="40" alt="UNIR" />
-
-**Máster en Visual Analytics & Big Data** — UNIR (2024–2025)
-*ML supervisado/no supervisado, Deep Learning, NLP, Power BI, Tableau, NoSQL*
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Escudo_de_la_Universidad_de_Extremadura.svg/120px-Escudo_de_la_Universidad_de_Extremadura.svg.png" height="50" alt="Universidad de Extremadura" />
-
-**Grado en Matemáticas** — Universidad de Extremadura (2019–2024)
-*Estadística, Series temporales (ARIMA), Procesos estocásticos, Modelado predictivo*
+<table>
+<tr>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/UNIR_Logo.svg/320px-UNIR_Logo.svg.png" height="40" alt="UNIR" /></td>
+<td valign="middle"><strong>Máster en Visual Analytics & Big Data</strong> — UNIR (2024–2025)<br/><em>ML supervisado/no supervisado, Deep Learning, NLP, Power BI, Tableau, NoSQL</em></td>
+</tr>
+<tr>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Escudo_de_la_Universidad_de_Extremadura.svg/120px-Escudo_de_la_Universidad_de_Extremadura.svg.png" height="60" alt="Universidad de Extremadura" /></td>
+<td valign="middle"><strong>Grado en Matemáticas</strong> — Universidad de Extremadura (2019–2024)<br/><em>Estadística, Series temporales (ARIMA), Procesos estocásticos, Modelado predictivo</em></td>
+</tr>
+</table>
 
 ---
 
