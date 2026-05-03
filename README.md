@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Durán-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-dur%C3%A1n-porras)
 ![Location](https://img.shields.io/badge/Ubicación-Badajoz%2C%20Extremadura-555?style=flat&logo=googlemaps&logoColor=white)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Data%20Engineer-2ea44f?style=flat)
 
 </div>
 
@@ -13,33 +14,33 @@
 
 ## 💼 Experiencia profesional
 
-<table>
+<table style="border-collapse: collapse; border: none;">
 <tr>
-<td width="100"><img src="assets/mardan.png" width="80" alt="MARDAN"></td>
-<td>
-<b>MARDAN BUSINESS SOLUTIONS SL</b><br>
+  <td style="border: none; text-align: center; padding: 10px;" width="100"><img src="assets/mardan.png" width="80" alt="MARDAN"></td>td>
+  <td style="border: none; padding: 10px;">
+    <b>MARDAN BUSINESS SOLUTIONS SL</b>b><br>
 Data Engineer · Sep 2024 – Presente · Badajoz, Extremadura<br><br>
-- Pipelines <b>ETL/ELT</b> en <b>Databricks</b> con <b>PySpark</b> y <b>Delta Lake</b><br>
-- Arquitectura <b>Medallion</b> (Bronze → Silver → Gold) para ingesta y calidad del dato<br>
-- Integración de fuentes con <b>Azure Data Factory (ADF)</b><br>
-- Sistemas de monitorización con <b>Spark Structured Streaming</b><br>
-- Dashboards e informes en <b>Power BI</b> y <b>Microsoft Fabric</b><br><br>
-<code>Databricks</code> <code>PySpark</code> <code>Delta Lake</code> <code>ADF</code> <code>Power BI</code> <code>Microsoft Fabric</code> <code>Azure</code>
-</td>
-</tr>
+- Pipelines <b>ETL/ELT</b>b> en <b>Databricks</b>b> con <b>PySpark</b>b> y <b>Delta Lake</b>b><br>
+- Arquitectura <b>Medallion</b>b> (Bronze → Silver → Gold) para ingesta y calidad del dato<br>
+- Integración de fuentes con <b>Azure Data Factory (ADF)</b>b><br>
+- Sistemas de monitorización con <b>Spark Structured Streaming</b>b><br>
+- Dashboards e informes en <b>Power BI</b>b> y <b>Microsoft Fabric</b>b><br><br>
+<code>Databricks</code>code> <code>PySpark</code>code> <code>Delta Lake</code>code> <code>ADF</code>code> <code>Power BI</code>code> <code>Microsoft Fabric</code>code> <code>Azure</code>code>
+  </td>td>
+</tr>tr>
 <tr>
-<td width="100"><img src="assets/logo_netmx.png" width="80" alt="NetMX"></td>
-<td>
-<b>NetMX</b><br>
+<td style="border: none; text-align: center; padding: 10px;" width="100"><img src="assets/logo_delf.jpg" width="80" alt="NetMX"></td>td>
+<td style="border: none; padding: 10px;">
+<b>NetMX</b>b><br>
 Desarrollo y Coordinación Técnica · Abr 2025 – Jun 2025 · Remoto, Madrid<br><br>
 - MVP full-stack para análisis de riesgos empresariales<br>
-- Backend con <b>Flask</b> y <b>MongoDB</b>, frontend con <b>React</b><br>
-- Integración de <b>APIs REST</b> con autenticación <b>JWT</b><br>
+- Backend con <b>Flask</b>b> y <b>MongoDB</b>b>, frontend con <b>React</b>b><br>
+- Integración de <b>APIs REST</b>b> con autenticación <b>JWT</b>b><br>
 - Coordinación técnica del equipo en remoto<br><br>
-<code>React</code> <code>Flask</code> <code>MongoDB</code> <code>REST APIs</code> <code>JWT</code>
-</td>
-</tr>
-</table>
+<code>React</code>code> <code>Flask</code>code> <code>MongoDB</code>code> <code>REST APIs</code>code> <code>JWT</code>code>
+</td>td>
+</tr>tr>
+</table>table>
 
 ---
 
@@ -48,33 +49,48 @@ Desarrollo y Coordinación Técnica · Abr 2025 – Jun 2025 · Remoto, Madrid<b
 ### ✅ Obtenidas
 
 <table style="border-collapse: collapse; border: none;">
-<tr>
-<td style="border: none; text-align: center; padding: 10 px;" width="120"><img src="https://www.databricks.com/sites/default/files/2025-10/associate-badge-de.png?v=1761149691" height="100" alt="Databricks DE Associate"></td>
-<td style="border: none; padding: 10 px;">
-<b><a href="https://credentials.databricks.com/1674c522-6a7b-467b-a684-30c57db44091">Databricks Certified Data Engineer Associate</a></b><br>
-nov. 2025 – nov. 2027
-</td>
-</tr>
-</table>
+  <tr>
+    <td style="border: none; text-align: center; padding: 10px;" width="120"><img src="https://www.databricks.com/sites/default/files/2025-10/associate-badge-de.png?v=1761149691" height="100" alt="Databricks DE Associate"></td>td>
+    <td style="border: none; padding: 10px;">
+      <b><a href="https://credentials.databricks.com/1674c522-6a7b-467b-a684-30c57db44091">Databricks Certified Data Engineer Associate</a>a></b>b><br>
+      nov. 2025 – nov. 2027
+    </td>td>
+  </tr>tr>
+  <tr>
+    <td style="border: none; text-align: center; padding: 10px;" width="120"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" height="100" alt="DP-900"></td>td>
+    <td style="border: none; padding: 10px;">
+      <b>Microsoft Certified: Azure Data Fundamentals</b>b><br>
+      DP-900
+    </td>td>
+  </tr>tr>
+  <tr>
+    <td style="border: none; text-align: center; padding: 10px;" width="120"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" height="100" alt="PL-900"></td>td>
+    <td style="border: none; padding: 10px;">
+      <b>Microsoft Certified: Power Platform Fundamentals</b>b><br>
+      PL-900
+    </td>td>
+  </tr>tr>
+</table>table>
 
 ### 🔄 En progreso
 
 <table style="border-collapse: collapse; border: none;">
-<tr>
-<td style="border: none; text-align: center; padding: 10 px;" width="120"><img src="https://d15cw65ipctsrr.cloudfront.net/2b/427e95891046e59983c15684493123/600x600.png" height="100" alt="DP-700"></td>
-<td style="border: none; padding: 10 px;">
-<b>Microsoft Certified: Fabric Data Engineer Associate</b><br>
-DP-700 · En progreso
-</td>
-</tr>
-<tr>
-<td style="border: none; text-align: center; padding: 10 px;" width="120"><img src="https://www.databricks.com/sites/default/files/2025-10/specialty-spark-developer-associate-badge.png?v=1761152441" height="100" alt="Spark Developer"></td>
-<td style="border: none; padding: 10 px;">
-<b>Databricks Certified Associate Developer for Apache Spark</b><br>
-En progreso
-</td>
-</tr>
-</table>
+  <tr>
+    <td style="border: none; text-align: center; padding: 10px;" width="120"><img src="https://d15cw65ipctsrr.cloudfront.net/2b/427e95891046e59983c15684493123/600x600.png" height="100" alt="DP-700"></td>td>
+    <td style="border: none; padding: 10px;">
+      <b>Microsoft Certified: Fabric Data Engineer Associate</b>b><br>
+      DP-700 · En progreso
+    </td>td>
+  </tr>tr>
+  <tr>
+    <td style="border: none; text-align: center; padding: 10px;" width="120"><img src="https://www.databricks.com/sites/default/files/2025-10/specialty-spark-developer-associate-badge.png?v=1761152441" height="100" alt="Spark Developer"></td>td>
+    <td style="border: none; padding: 10px;">
+      <b>Databricks Certified Associate Developer for Apache Spark</b>b><br>
+      En progreso
+    </td>td>
+  </tr>tr>
+</table>table>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -115,7 +131,6 @@ En progreso
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
 
-
 **🗣️ Idiomas**
 
 ![Español](https://img.shields.io/badge/Español-Nativo-c0392b?style=flat)
@@ -126,22 +141,22 @@ En progreso
 
 ## 🎓 Formación académica
 
-<table>
-<tr>
-<td width="80"><img src="assets/Logo_UNIR.png" height="50" alt="UNIR"></td>
-<td valign="middle">
-<b>Máster en Visual Analytics & Big Data</b> — UNIR (2024–2025)<br>
-<em>ML supervisado/no supervisado, Deep Learning, NLP, Power BI, Tableau, NoSQL</em>
-</td>
-</tr>
-<tr>
-<td width="80"><img src="assets/logo_uex.png" height="60" alt="UEx"></td>
-<td valign="middle">
-<b>Grado en Matemáticas</b> — Universidad de Extremadura (2019–2024)<br>
-<em>Estadística, Series temporales (ARIMA), Procesos estocásticos, Modelado predictivo</em>
-</td>
-</tr>
-</table>
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="border: none; text-align: center; padding: 10px;" width="100"><img src="assets/Logo_UNIR.png" height="50" alt="UNIR"></td>td>
+    <td style="border: none; padding: 10px;">
+      <b>Máster en Visual Analytics & Big Data</b>b> — UNIR (2024–2025)<br>
+      <em>ML supervisado/no supervisado, Deep Learning, NLP, Power BI, Tableau, NoSQL</em>em>
+    </td>td>
+  </tr>tr>
+  <tr>
+    <td style="border: none; text-align: center; padding: 10px;" width="100"><img src="assets/logo_uex.jpg" height="60" alt="UEx"></td>td>
+    <td style="border: none; padding: 10px;">
+      <b>Grado en Matemáticas</b>b> — Universidad de Extremadura (2019–2024)<br>
+      <em>Estadística, Series temporales (ARIMA), Procesos estocásticos, Modelado predictivo</em>em>
+    </td>td>
+  </tr>tr>
+</table>table>
 
 ---
 
@@ -157,3 +172,5 @@ En progreso
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Durán%20Porras-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-dur%C3%A1n-porras)
 ![Ubicación](https://img.shields.io/badge/📍-Badajoz%2C%20Extremadura%2C%20España-555?style=flat)
+</b>
+</tr>
