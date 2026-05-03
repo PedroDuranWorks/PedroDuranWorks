@@ -47,49 +47,34 @@ Desarrollo y Coordinación Técnica · Abr 2025 – Jun 2025 · Remoto, Madrid<b
 
 ### ✅ Obtenidas
 
-<table>
+<table style="border-collapse: collapse; border: none;">
 <tr>
-<td width="120"><img src="https://www.databricks.com/sites/default/files/2025-10/associate-badge-de.png?v=1761149691" height="100" alt="Databricks DE Associate"></td>
-<td valign="middle">
+<td style="border: none; text-align: center; padding: 10 px;" width="120"><img src="https://www.databricks.com/sites/default/files/2025-10/associate-badge-de.png?v=1761149691" height="100" alt="Databricks DE Associate"></td>
+<td style="border: none; padding: 10 px;">
 <b><a href="https://credentials.databricks.com/1674c522-6a7b-467b-a684-30c57db44091">Databricks Certified Data Engineer Associate</a></b><br>
 nov. 2025 – nov. 2027
-</td>
-</tr>
-<tr>
-<td width="120"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" height="100" alt="DP-900"></td>
-<td valign="middle">
-<b>Microsoft Certified: Azure Data Fundamentals</b><br>
-DP-900
-</td>
-</tr>
-<tr>
-<td width="120"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" height="100" alt="PL-900"></td>
-<td valign="middle">
-<b>Microsoft Certified: Power Platform Fundamentals</b><br>
-PL-900
 </td>
 </tr>
 </table>
 
 ### 🔄 En progreso
 
-<table>
+<table style="border-collapse: collapse; border: none;">
 <tr>
-<td width="120"><img src="https://d15cw65ipctsrr.cloudfront.net/2b/427e95891046e59983c15684493123/600x600.png" height="100" alt="DP-700"></td>
-<td valign="middle">
+<td style="border: none; text-align: center; padding: 10 px;" width="120"><img src="https://d15cw65ipctsrr.cloudfront.net/2b/427e95891046e59983c15684493123/600x600.png" height="100" alt="DP-700"></td>
+<td style="border: none; padding: 10 px;">
 <b>Microsoft Certified: Fabric Data Engineer Associate</b><br>
 DP-700 · En progreso
 </td>
 </tr>
 <tr>
-<td width="120"><img src="https://www.databricks.com/sites/default/files/2025-10/specialty-spark-developer-associate-badge.png?v=1761152441" height="100" alt="Spark Developer"></td>
-<td valign="middle">
+<td style="border: none; text-align: center; padding: 10 px;" width="120"><img src="https://www.databricks.com/sites/default/files/2025-10/specialty-spark-developer-associate-badge.png?v=1761152441" height="100" alt="Spark Developer"></td>
+<td style="border: none; padding: 10 px;">
 <b>Databricks Certified Associate Developer for Apache Spark</b><br>
 En progreso
 </td>
 </tr>
 </table>
-
 ---
 
 ## 🛠️ Tech Stack
