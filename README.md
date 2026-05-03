@@ -4,7 +4,7 @@
 
 **Data Engineer · Databricks · PySpark · Power BI · Microsoft Fabric**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Durán-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-dur%C3%A1n-porras)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Durán-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroduranporras)
 ![Location](https://img.shields.io/badge/Ubicación-Badajoz%2C%20Extremadura-555?style=flat&logo=googlemaps&logoColor=white)
 
 </div>
