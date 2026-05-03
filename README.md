@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Durán-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-dur%C3%A1n-porras)
 ![Location](https://img.shields.io/badge/Ubicación-Badajoz%2C%20Extremadura-555?style=flat&logo=googlemaps&logoColor=white)
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Data%20Engineer-2ea44f?style=flat)
 
 </div>
 
@@ -29,7 +28,7 @@ Data Engineer · Sep 2024 – Presente · Badajoz, Extremadura<br><br>
 </td>
 </tr>
 <tr>
-<td width="100"><img src="assets/logo_netmx.jpg" width="80" alt="NetMX"></td>
+<td width="100"><img src="assets/logo_netmx.png" width="80" alt="NetMX"></td>
 <td>
 <b>NetMX</b><br>
 Desarrollo y Coordinación Técnica · Abr 2025 – Jun 2025 · Remoto, Madrid<br><br>
@@ -151,7 +150,7 @@ En progreso
 </td>
 </tr>
 <tr>
-<td width="80"><img src="assets/logo_uex.jpg" height="60" alt="UEx"></td>
+<td width="80"><img src="assets/logo_uex.png" height="60" alt="UEx"></td>
 <td valign="middle">
 <b>Grado en Matemáticas</b> — Universidad de Extremadura (2019–2024)<br>
 <em>Estadística, Series temporales (ARIMA), Procesos estocásticos, Modelado predictivo</em>
